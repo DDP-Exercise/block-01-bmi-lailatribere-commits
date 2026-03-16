@@ -20,7 +20,7 @@
  *     To do so, collect data from your users. Values within :colons: are (formatted) user-inputs;
  *     values within <angle brackets> have to be calculated by your software.
  *
- *     You - 2026-03-05
+ *     Laila Tribere - 2026-03-05
  *******************************************************/
 
 /*
